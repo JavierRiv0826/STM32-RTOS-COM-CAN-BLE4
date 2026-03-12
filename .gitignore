@@ -1,0 +1,38 @@
+# =====================
+# STM32 / CubeIDE
+# =====================
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.map
+.cproject
+.project
+.settings/
+*.launch
+
+# =====================
+# Python
+# =====================
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# =====================
+# Android / Gradle
+# =====================
+android/.gradle/
+android/.kotlin/
+android/**/build/
+android/local.properties
+*.iml
+.idea/
+
+# =====================
+# OS / Editor
+# =====================
+.DS_Store
+Thumbs.db
+.vscode/ 
